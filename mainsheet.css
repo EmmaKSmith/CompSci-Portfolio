@@ -1,0 +1,53 @@
+#navbar{
+    text-align:center;
+}
+
+#navbar li{
+    display:inline-block;
+    border:2px solid teal;
+    padding:5px;
+    background-color:#B280FF;
+    font-family:tahoma;
+    border-radius:17px;
+}
+
+#navbar li:hover{
+    background-color:white;
+    border:2px dashed teal;
+    
+
+    
+}
+#navbar a{
+    color:black;
+}
+
+p{
+    border: solid teal;
+    Background:#B280FF;
+    padding:2px;
+    text-align:center;
+    font-family:tahoma;
+}
+
+p:hover{
+    border:dashed teal;
+}
+body{
+    background-image:url(http://www.isauhm.com/wp-content/uploads/2014/10/violet-vector-leaves-circles-backgrounds-for-powerpoint.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+}
+
+h1{
+    border:solid teal;
+    background:#B280FF;
+    text-align:center;
+    width:150px;
+    
+}
+
+h1:hover{
+    border:dashed teal;    
+}
